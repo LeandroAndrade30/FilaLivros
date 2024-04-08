@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712602730 source:c:\users\matri\onedrive\Área de trabalho\estrutura de dados\filalivros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
